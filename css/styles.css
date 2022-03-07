@@ -1,0 +1,147 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    color: #4c5c8f;
+    font-family: 'Mr De Haviland', cursive;
+    font-size: 5.5rem;
+    margin: 2.8rem auto 0 auto;
+}
+
+h2 {
+    color: #a592c5;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #7da0e1;
+    font-family: 'Poppins', sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted #d5ecec 3px;
+    width: 4%;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+}
+
+a {
+    margin: 0 2rem;
+    text-decoration-line: none;
+    color: #6d5a8f;
+    font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+    color: #c9cce7;
+}
+
+.top-container {
+    background-color: #f3f0fc;
+    padding: 8% 0;
+    position: relative;
+}
+
+.middle-container {
+    padding: 8% 0;
+}
+
+.bottom-container {
+    background-color:#9c85c4;
+    padding: 5% 0;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.hs {
+    text-decoration: underline;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 25%;
+    top: 8%;
+
+}
+
+.cloud-bottom {
+    position: absolute;
+    left: 20%;
+    bottom: 55%;
+}
+
+.contact-me {
+    margin-top: 3%;
+}
+
+.profile {
+    padding-bottom: 60px;
+}
+
+.skills {
+    margin-top: 40px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-paragraph {
+    text-align: justify;
+}
+
+.knitting-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coding-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+ .btn {
+	background-color:#9eace3;
+	border-radius:3px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size: 1.2rem;
+	font-weight:bold;
+	padding:11px 15px;
+	text-decoration:none;
+    cursor: pointer;
+}
+.btn:hover {
+	background-color:#9099c9;
+    color: #ffffff;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+ .copyright {
+     color: ghostwhite;
+     padding-top: 20px;
+ }
+
+
